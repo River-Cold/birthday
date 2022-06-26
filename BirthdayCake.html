@@ -9,7 +9,7 @@
 </head>
 
 <body style="text-align:center">
-    <audio src="music/2.mp3" autoplay="autoplay" loop="loop" , preload="auto"></audio>
+    <audio id="song" , src="music/2.mp3" autoplay="autoplay" loop="loop" , preload="auto"></audio>
     <div class="bg">
         <div class="velas">
             <div class="fuego"></div>
@@ -206,6 +206,21 @@
         <li></li>
         <li></li>
     </ul>
+    <script type="text/javascript">
+        window.onload = function () {
+            setInterval("toggleSound()", 100);
+        }
+
+        function toggleSound() {
+            var music = document.getElementById("song");//获取ID  
+
+            if (music.paused) { //判读是否播放  
+                music.paused = false;
+                music.play(); //没有就播放 
+            }
+        }
+    </script>
+
     <script src='js/jquery-3.6.0.min.js'></script>
     <script src='js/happy.js'></script>
 
