@@ -122,6 +122,7 @@
         -webkit-transform: translateY(0);
         transform: translateY(0);
     }
+
     100% {
         -webkit-transform: translateY(-900px) rotate(600deg);
         transform: translateY(-900px) rotate(600deg);
@@ -133,6 +134,7 @@
         -webkit-transform: translateY(0);
         transform: translateY(0);
     }
+
     100% {
         -webkit-transform: translateY(-900px) rotate(600deg);
         transform: translateY(-900px) rotate(600deg);
@@ -166,6 +168,7 @@
         left: 48%;
         bottom: 50%;
     }
+
     10% {
         margin-bottom: 0;
         width: 50px;
@@ -176,6 +179,7 @@
         left: 48%;
         bottom: 50%;
     }
+
     14% {
         margin-bottom: 0;
         width: 80%;
@@ -186,6 +190,7 @@
         left: 10%;
         bottom: 12%;
     }
+
     96% {
         margin-bottom: 0;
         width: 80%;
@@ -196,6 +201,7 @@
         left: 10%;
         bottom: 12%;
     }
+
     100% {
         margin-bottom: 0;
         width: 50px;
@@ -218,6 +224,7 @@
         left: 48%;
         bottom: 50%;
     }
+
     10% {
         margin-bottom: 0;
         width: 50px;
@@ -228,6 +235,7 @@
         left: 48%;
         bottom: 50%;
     }
+
     14% {
         margin-bottom: 0;
         width: 80%;
@@ -238,6 +246,7 @@
         left: 10%;
         bottom: 12%;
     }
+
     96% {
         margin-bottom: 0;
         width: 80%;
@@ -248,6 +257,7 @@
         left: 10%;
         bottom: 12%;
     }
+
     100% {
         margin-bottom: 0;
         width: 50px;
@@ -269,6 +279,7 @@
         bottom: 50%;
         left: 48%;
     }
+
     50% {
         margin-bottom: 0;
         left: 48%;
@@ -278,6 +289,7 @@
         bottom: 0;
         left: 48%;
     }
+
     100% {
         margin-bottom: 0;
         width: 20px;
@@ -298,6 +310,7 @@
         bottom: 50%;
         left: 48%;
     }
+
     50% {
         margin-bottom: 0;
         left: 48%;
@@ -307,6 +320,7 @@
         bottom: 0;
         left: 48%;
     }
+
     100% {
         margin-bottom: 0;
         width: 20px;
@@ -351,15 +365,19 @@
     0% {
         opacity: 0;
     }
+
     8% {
         opacity: 1;
     }
+
     90% {
         opacity: 1;
     }
+
     98% {
         opacity: 0;
     }
+
     100% {
         opacity: 0;
     }
@@ -369,15 +387,19 @@
     0% {
         opacity: 0;
     }
+
     8% {
         opacity: 0;
     }
+
     90% {
         opacity: 1;
     }
+
     98% {
         opacity: 0;
     }
+
     100% {
         opacity: 0;
     }
@@ -403,18 +425,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     8% {
         opacity: 0;
         margin-top: -71px;
     }
+
     16% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -426,18 +452,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     8% {
         opacity: 0;
         margin-top: -71px;
     }
+
     16% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -464,18 +494,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     16% {
         opacity: 0;
         margin-top: -71px;
     }
+
     24% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -487,18 +521,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     16% {
         opacity: 0;
         margin-top: -71px;
     }
+
     24% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -525,18 +563,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     24% {
         opacity: 0;
         margin-top: -71px;
     }
+
     32% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -548,18 +590,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     24% {
         opacity: 0;
         margin-top: -71px;
     }
+
     32% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -586,18 +632,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     32% {
         opacity: 0;
         margin-top: -71px;
     }
+
     40% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -609,18 +659,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     32% {
         opacity: 0;
         margin-top: -71px;
     }
+
     40% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -645,15 +699,19 @@
     0% {
         opacity: 0;
     }
+
     40% {
         opacity: 0;
     }
+
     48% {
         opacity: 1;
     }
+
     90% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
@@ -663,15 +721,19 @@
     0% {
         opacity: 0;
     }
+
     40% {
         opacity: 0;
     }
+
     48% {
         opacity: 1;
     }
+
     90% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
@@ -697,18 +759,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     48% {
         opacity: 0;
         margin-top: -71px;
     }
+
     56% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -720,18 +786,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     48% {
         opacity: 0;
         margin-top: -71px;
     }
+
     56% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -758,18 +828,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     56% {
         opacity: 0;
         margin-top: -71px;
     }
+
     64% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -781,18 +855,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     56% {
         opacity: 0;
         margin-top: -71px;
     }
+
     64% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -819,18 +897,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     64% {
         opacity: 0;
         margin-top: -71px;
     }
+
     72% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -842,18 +924,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     64% {
         opacity: 0;
         margin-top: -71px;
     }
+
     72% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -880,18 +966,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     72% {
         opacity: 0;
         margin-top: -71px;
     }
+
     80% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
@@ -903,18 +993,22 @@
         opacity: 0;
         margin-top: -71px;
     }
+
     72% {
         opacity: 0;
         margin-top: -71px;
     }
+
     80% {
         opacity: 1;
         margin-top: 0;
     }
+
     90% {
         opacity: 1;
         margin-top: 0;
     }
+
     100% {
         opacity: 0;
         margin-top: 0;
