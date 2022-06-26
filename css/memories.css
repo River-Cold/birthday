@@ -1164,7 +1164,6 @@
     font-color: #000;
     position: absolute;
     padding-top: 20px;
-    position: absolute;
     left: 3%;
     top: 4%;
     opacity: 0;
@@ -1184,7 +1183,7 @@
     position: absolute;
     padding-top: 20px;
     left: 3%;
-    top: 12%;
+    top: 14%;
     opacity: 0;
     transition: all 1s;
 }
@@ -1201,7 +1200,7 @@
     position: absolute;
     padding-top: 20px;
     left: 3%;
-    top: 20%;
+    top: 24%;
     opacity: 0;
     transition: all 1s;
 }
@@ -1218,7 +1217,7 @@
     position: absolute;
     padding-top: 20px;
     left: 3%;
-    top: 28%;
+    top: 34%;
     opacity: 0;
     transition: all 1s;
 }
@@ -1235,7 +1234,7 @@
     position: absolute;
     padding-top: 20px;
     left: 3%;
-    top: 36%;
+    top: 44%;
     opacity: 0;
     transition: all 1s;
 }
