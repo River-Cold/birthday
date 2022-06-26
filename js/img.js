@@ -12,7 +12,7 @@ $(function () {
                 i++;
             }, 4000);
         } else {
-            $('.begin').html('<a href="Memories.html" style="text-decoration: none;color: #fff;background: pink;display: inline-block;padding: 10px;border: 2px solid #fff;">开启浪漫回忆</a>');
+            $('.begin').html('<a href="Memories.html" style="text-decoration: none;color: #fff;background: pink;display: inline-block;padding: 10px;border: 2px solid #fff;">查收生日祝福</a>');
             $('.begin').fadeIn();
             return;
         }
@@ -28,8 +28,8 @@ $(function () {
         li.eq(i).css(randLRArr[d - 1], '-100%');
         li.eq(i).css('z-index', i)
         let n = Math.floor((Math.random() * 30) + (-30));
-        li.eq(i).css({transform: "rotate(" + n + "deg)"})
-        li.eq(i).find('img').css({width: '250px', height: '350px'})
+        li.eq(i).css({ transform: "rotate(" + n + "deg)" })
+        li.eq(i).find('img').css({ width: '250px', height: '350px' })
         li.eq(i).show();
         if (parseInt(li.eq(i).css('top')) < 0) {
             data.top = parseInt(Math.random() * 20 + 5) + "%";
